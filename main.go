@@ -2,7 +2,6 @@ package main
 
 import (
 	"connection-check/cmd"
-
 )
 
 func main()  {
