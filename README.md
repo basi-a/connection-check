@@ -2,7 +2,9 @@ connection-check
 ====
 
 ## 用途
-当使用`Linux + 窗口管理器`时，系统不会自动检测所连接的网络是否需要认证，于是便有了这个
+当使用`Linux + 窗口管理器`时，系统不会自动检测所连接的校园网是否需要认证，于是便有了这个
+
+**仅 `Linux` 可用，因为调用的命令，都是独占的**
 ## 食用方法
 ```bash
 git clone git@github.com:basi-a/connection-check.git
