@@ -20,4 +20,4 @@ echo "${HOME}/go/bin/connection-check &" >> ${HOME}/.dwm/autostart.sh
 2. 进行`ping`测试，若无错误则结束，否则继续
 3. 若有错误，打开浏览器访问我们学校的校园网认证页
 
-~~代码很少，很简陋就不写注释了~~
+~~其他操作系统的就不写了，够我用了，不用 windows 买不起 mac ：）~~
